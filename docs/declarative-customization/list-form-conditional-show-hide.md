@@ -60,7 +60,7 @@ Returning _true_ results in hiding the column in the form while returning _false
 
 The column is represented by specifying the **internal name** of the field surrounded by square brackets and preceded by a dollar sign: [$InternalName]. For example, to get the value of a field with an internal name of "ProductName", use [$ProductName].
 
-#### UnSupported column types in conditional show or hide
+#### Unsupported column types in conditional show or hide
 
 While the formula supports many of the available column types, we do not currently support the following column types:
 
