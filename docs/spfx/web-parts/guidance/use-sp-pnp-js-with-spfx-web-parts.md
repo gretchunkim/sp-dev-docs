@@ -376,7 +376,7 @@ You can delete existing items by selecting the trashcan icon, or you can add new
 
 ### Next steps
 
-The @pnp/sp library contains a great range of functionality and extensibility. For samples, guidance, and hints about using and configuring the library, see the [Developer Guide](https://pnp.github.io/pnpjs/documentation/getting-started/).
+The @pnp/sp library contains a great range of functionality and extensibility. For samples, guidance, and hints about using and configuring the library, see the [Developer Guide](https://pnp.github.io/pnpjs/getting-started/).
 
 ## Deploy to production
 
