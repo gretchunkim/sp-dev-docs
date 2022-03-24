@@ -10,7 +10,7 @@ ms.localizationpriority: high
 
 The Office UI Fabric is the official front-end framework for building experiences in Office 365 and SharePoint. SharePoint provides seamless integration with Fabric that enables Microsoft to deliver a robust and consistent design language across various SharePoint experiences such as modern team sites, modern pages, and modern lists. Additionally, the Office UI Fabric is available for developers in the SharePoint Framework when building custom SharePoint solutions.
 
-Microsoft uses Fabric Core and Fabric React in SharePoint. Microsoft regularly pushes updates to SharePoint Online that could also update the Fabric Core and Fabric React versions as well. These updates could potentially conflict with third-party customer solutions built with previous versions of Fabric Core and Fabric React, which could cause exceptions in those customizations. The primary reason for these types of breaks is the use of **Global CSS styles** in both Fabric libraries. Such conflicts need to be avoided at all costs.
+Microsoft uses Fabric Core and Fabric React in SharePoint. Microsoft regularly pushes updates to SharePoint Online that could also update the Fabric Core and Fabric React versions as well. These updates could potentially conflict with third-party solutions built with previous versions of Fabric Core and Fabric React, which could cause exceptions in those customizations. The primary reason for these types of breaks is the use of **Global CSS styles** in both Fabric libraries. Such conflicts need to be avoided at all costs.
 
 The challenge with Global CSS styles is explained in the following presentation within the context of React and JavaScript: [React CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js).
 
