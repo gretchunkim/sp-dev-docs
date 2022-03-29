@@ -202,7 +202,7 @@ The SharePoint Framework uses [Sass](http://sass-lang.com/) as the CSS pre-proce
 
     By default, the styles are scoped to your web part. You can see that as the styles are defined under `.helloWorld`.
 
-1. Add the following styles after the `.button` style, but still inside the main `.helloWorld` style section:
+1. Add the following styles inside the main `.helloWorld` style section:
 
     ```css
     .list {
